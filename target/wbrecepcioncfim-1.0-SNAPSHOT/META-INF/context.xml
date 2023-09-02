@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/app">
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="my_persistence_unit" password="9506" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/cfim_recepcions?zeroDateTimeBehavior=CONVERT_TO_NULL" username="root"/>
+</Context>
