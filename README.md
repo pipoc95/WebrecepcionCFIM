@@ -1,2 +1,2 @@
 # WebrecepcionCFIM
-Aplicatio web de aplicacion para la recepcion en cfim
+Aplicacion web para la recepcion en cfim
